@@ -24,3 +24,15 @@ Always the very first thing to learn
 - Flexbox & CSS Grid
 - CSS Variables (Custom Properties)
 - Browser Dev Tools
+
+## Responsive Layout
+
+Responsive layouts are not longer a luxury, they are necessary
+
+- Set viewport
+- Fluid widths
+- Media queries
+- rem over px
+- Mobile first, stacked columns
+
+---- UNFINISHED (Please complete the rest of the outlines from this video) ----
