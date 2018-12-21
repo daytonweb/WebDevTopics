@@ -11,3 +11,16 @@ Text Editor or IDE | [VSCode](https://code.visualstudio.com/), Sublime Text, Ato
 Web Browser | [Chrome](https://www.google.com/chrome/), Firefox
 Design & Mockup (Optional) | [XD](https://www.adobe.com/products/xd.html), Photoshop, Sketch, Figma
 3rd Party Terminal (Optional) | [Git Bash](https://git-scm.com/downloads), WSL, iTerm2, Hyper
+
+
+## HTML & CSS
+
+Always the very first thing to learn
+
+**What To Learn**
+
+- Semantic HTML5 Elements
+- Basic CSS (Position, box model, etc)
+- Flexbox & CSS Grid
+- CSS Variables (Custom Properties)
+- Browser Dev Tools
