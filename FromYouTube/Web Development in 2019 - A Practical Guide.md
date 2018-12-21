@@ -2,6 +2,9 @@
 By Traversy Media
 
 ## Basic Software & Tools  
+
+Basic Tools for Web Development  
+
 ITEM | EXAMPLE
 ---- | ---------
 Text Editor or IDE | [VSCode](https://code.visualstudio.com/), Sublime Text, Atom
